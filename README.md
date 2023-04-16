@@ -1,2 +1,0 @@
-# VeterinariaAPP
-VeterinariaAPP
